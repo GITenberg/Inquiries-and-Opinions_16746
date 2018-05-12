@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1992
     wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16746#Inquiries-and-Opinions
 gutenberg_issued: '2005-09-25'
 gutenberg_type: Text
 identifiers:

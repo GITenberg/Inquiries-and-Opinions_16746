@@ -1,0 +1,36 @@
+_repo: Inquiries-and-Opinions_16746
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, J. Brander (James Brander)
+    - Penn, Arthur
+    - Matthews, James Brander
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+description: ''
+gutenberg_issued: '2005-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature, Modern -- 19th century -- History and criticism'
+tableOfContents: Literature in the new century -- The supreme leaders -- An apology
+  for technic -- Old friends with new faces -- Invention and imagination -- Poe and
+  the detective-story -- Mark Twain -- A note on Maupassant -- The modern novel and
+  the modern play -- The literary merit of our latter-day drama -- Ibsen the playwright
+  -- The art of the stage-manager.
+title: Inquiries and Opinions
+url: http://www.gutenberg.org/ebooks/16746
